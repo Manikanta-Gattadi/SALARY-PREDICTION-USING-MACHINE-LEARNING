@@ -58,6 +58,4 @@ This project focuses on building a **Salary Prediction System** using **Linear R
 - [Kaggle Datasets](https://www.kaggle.com)
 
 ## 👨‍💻 Author
-**G. Manikanta**  
-B.Sc. Data Science – Semester IV  
-Siva Sivani Degree College (Autonomous), Secunderabad
+** Made with ❤️ G. Manikanta**

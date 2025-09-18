@@ -23,3 +23,4 @@ a = int(input("Years of Experience : "))
 b=int(input("enter interview score:"))
 features = np.array([[a]])
 print("Predicted Salary = ", model.predict(features))
+
